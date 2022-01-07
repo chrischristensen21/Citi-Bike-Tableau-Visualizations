@@ -1,4 +1,4 @@
-Citi Bike Data Tableau Visualizations
+Citi Bike Data Tableau Visualizations https://public.tableau.com/views/TableauChallenge_16348812065720/CitiBikeDataJan-Apr2020?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link
 
 ​      The first dashboard in the story contains maps of all the starting and ending stations sized according to the trip frequency from each. From the maps you can clearly see that both the starting and ending stations are concentrated mostly in the Manhattan area. Because of the large number of points, it is difficult to visualize much more. That leads to the next dashboard in the Story.
 
